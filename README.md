@@ -1,5 +1,6 @@
 
-### Schema
+### Schemas
+
 ```sql
 -- user_identities
 
@@ -10,7 +11,7 @@
 | 100001533612613          | FCB  | 123 | 1           | 2016-11-22 09:15:05 | MSITE                |
 ```
 
-### Protobuf
+### Protobufs
 
 ```protobuf
 syntax = 'proto3';
